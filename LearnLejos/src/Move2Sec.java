@@ -7,7 +7,7 @@ public class Move2Sec {
 			System.out.println("Moving forward...");
 			Motor.A.forward();
 			Motor.B.forward();
-			Thread.sleep(1000);
+			Thread.sleep(2000);
 			System.out.println("Moving backward...");
 			Motor.A.backward();
 			Motor.B.backward();
