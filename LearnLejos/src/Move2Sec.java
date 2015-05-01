@@ -1,7 +1,6 @@
 import lejos.nxt.Motor;
 
 public class Move2Sec {
-
 	public static void main(String[] args) {
 		try {
 			System.out.println("Moving forward...");
